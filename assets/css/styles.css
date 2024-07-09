@@ -1,0 +1,27 @@
+body{
+    background-repeat: repeat; 
+    background-position: center;
+}
+header{
+    text-align: center;
+    padding: 10px;
+    color: black;
+    opacity: 1.5;
+    background-repeat: no-repeat;
+}
+div{
+    text-align: center;
+}
+h3{
+    color: rgb(2, 2, 88);
+    text-align: justify;
+}
+section{
+    text-align: justify;
+}
+ul{
+    list-style: none;
+}
+il{
+    list-style: none;
+}
